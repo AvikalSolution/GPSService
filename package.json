@@ -18,5 +18,8 @@
     "sequelize": "^5.12.2",
     "cors": "^2.8.5",
     "socket.io": "^2.2.0"
+  },
+  "devDependencies": {
+    "pm2": "^3.5.1"
   }
 }
